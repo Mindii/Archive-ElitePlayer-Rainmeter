@@ -10,12 +10,12 @@ Very simple rainmeter overlayer feel free to do anything for it.
 2. Install ElitePlayer_1.1.0.rmskin
 3. Edit config variable "Player" for your player examples:
 
-foobar2000: Player="CAD" (Needs foo_cad plugin)
+    *foobar2000: Player="CAD" (Needs foo_cad plugin)
 
-iTunes: Player="iTunes"
+    *iTunes: Player="iTunes"
 
-Winamp: Player="Winamp"
+    *Winamp: Player="Winamp"
 
-WMP: Player="WMP"
+    *WMP: Player="WMP"
 
-More players here: https://docs.rainmeter.net/manual/plugins/nowplaying/
+    *More players here: https://docs.rainmeter.net/manual/plugins/nowplaying/
