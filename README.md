@@ -7,7 +7,7 @@ Very simple rainmeter overlayer feel free to do anything for it.
 
 # Install
 1. Get Rainmeter
-2. Install ElitePlayer_1.1.0.rmskin
+2. Install ElitePlayer_1.1.9.rmskin
 3. Edit config variable "Player" for your player (Elite Player\@Resources\Config.inc):<br>
      foobar2000: Player="CAD" (Needs foo_cad plugin)<br>
      iTunes: Player="iTunes"<br>
