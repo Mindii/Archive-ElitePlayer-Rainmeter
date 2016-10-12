@@ -14,3 +14,10 @@ Very simple rainmeter overlayer feel free to do anything for it.
      Winamp: Player="Winamp"<br>
      WMP: Player="WMP"<br>
      More players here: https://docs.rainmeter.net/manual/plugins/nowplaying/
+
+# Ideas
+1. Hide player when not in use (simple if there is no track and artist then hide)
+2. Variable for colors
+3. More metters (There is some unused mesures aready from original Soitin skin just make matters for them)
+<br><br>
+Oh btw there is also psd in recources folder if someone like to make better background.
