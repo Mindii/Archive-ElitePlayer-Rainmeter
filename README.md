@@ -11,11 +11,7 @@ Very simple rainmeter overlayer feel free to do anything for it.
 3. Edit config variable "Player" for your player examples:
 
     *foobar2000: Player="CAD" (Needs foo_cad plugin)
-
     *iTunes: Player="iTunes"
-
     *Winamp: Player="Winamp"
-
     *WMP: Player="WMP"
-
     *More players here: https://docs.rainmeter.net/manual/plugins/nowplaying/
