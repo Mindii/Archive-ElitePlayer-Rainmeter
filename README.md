@@ -16,9 +16,8 @@ Very simple rainmeter overlayer feel free to do anything for it.
      More players here: https://docs.rainmeter.net/manual/plugins/nowplaying/
 
 # Ideas
-1. Hide player when not in use (simple if there is no track and artist then hide)
-2. Variable for colors
-3. More metters (There is some unused mesures aready from original Soitin skin just make matters for them)
+1. Variable for colors
+2. More meters (There is some unused mesures a ready from original Soitin skin just make maters for them)
 <br><br>
 Oh btw there is also psd in recources folder if someone like to make better background.
 
