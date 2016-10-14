@@ -21,6 +21,8 @@ Note: if you use source folder there is folder called Resources add @ in front "
      Changed update from 1sec to 0.2sec for main load script so song change should be smooth now.<br>
      Player now fades out and in.<br>
      Fixed bug with "WhatTimeIsIt" mesure.<br>
+<br>
 1.1.9<br>
      Config have now own file: Elite Player\@Resources\Config.inc<br>
      Main file should load player when needed, it don't show if game/player is not running.<Br>
+<br>
