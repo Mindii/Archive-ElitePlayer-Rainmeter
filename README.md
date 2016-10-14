@@ -17,13 +17,14 @@ Very simple rainmeter overlayer feel free to do anything for it.
 <br>
 Note: if you use source folder there is folder called Resources add @ in front "@Resources".
 
-# Ideas
-1. Variable for colors
-2. More meters (There is some unused mesures a ready from original Soitin skin just make maters for them)
-<br><br>
-Oh btw there is also psd in recources folder if someone like to make better background.
+# Known bugs
+"foo_cad" or "Nowplaying.dll" does't show song Position when continued with "next" button, insted use "play" first.
 
 # Changelog
+1.2.2<br>
+     Changed update from 1sec to 0.2sec for main load script so song change should be smooth now.<br>
+     Player now fades out and in.<br>
+     Fixed bug with "WhatTimeIsIt" mesure.<br>
 1.1.9<br>
      Config have now own file: Elite Player\@Resources\Config.inc<br>
      Main file should load player when needed, it don't show if game/player is not running.<Br>
