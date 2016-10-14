@@ -18,7 +18,7 @@ Very simple rainmeter overlayer feel free to do anything for it.
 Note: if you use source folder there is folder called Resources add @ in front "@Resources".
 
 # Known bugs
-"foo_cad" or "Nowplaying.dll" does't show song Position when continued with "next" button, for now insted use "play" first.
+"Foo_Cad" or "Nowplaying.dll" does't show song "Position" when continued with "Next" button, for now insted use "Play" on start.
 
 # Changelog
 1.2.2<br>
