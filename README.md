@@ -9,11 +9,7 @@ Very simple rainmeter overlayer.
 1. Get Rainmeter
 2. Install ElitePlayer_1.2.2.rmskin
 3. Edit config variable "Player" for your media player (Elite Player\@Resources\Config.inc):<br>
-     foobar2000: Player="CAD" (Needs foo_cad plugin)<br>
-     iTunes: Player="iTunes"<br>
-     Winamp: Player="Winamp"<br>
-     WMP: Player="WMP"<br>
-     More players here: https://docs.rainmeter.net/manual/plugins/nowplaying/<br>
+     Player names you can found here: https://docs.rainmeter.net/manual/plugins/nowplaying/<br>
 <br>
 Note: if you use source folder there is folder called Resources add @ in front "@Resources".
 
