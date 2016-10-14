@@ -1,7 +1,7 @@
 # ElitePlayer-Rainmeter
 Rainmeter player for Elite Dangerous
 
-Very simple rainmeter overlayer feel free to do anything for it.
+Very simple rainmeter overlayer.
 
 ![alt tag](https://raw.githubusercontent.com/Mindii/ElitePlayer-Rainmeter/master/Img/eliteplayer.jpg)
 
